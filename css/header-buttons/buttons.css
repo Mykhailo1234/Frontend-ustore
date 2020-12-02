@@ -1,0 +1,35 @@
+
+li a {
+    padding: 5px;
+    background-color: rgb(149, 146, 146);
+}
+li a,
+h2,
+.footer_link_menu {
+    color: #343e5c;
+    padding-left: 10px;
+}
+.home {
+    margin-right: 10px;
+}
+.home1 {
+    margin-right: 20px;
+}
+.cart {
+    margin-left: 40px;
+    border-left: none;
+}
+.buttons {
+    padding-left: 100px;
+    margin-top: -45px;
+}
+h2 {
+    padding-left: 600px;
+}
+.icons-ion {
+    width: 13px;
+    height: 13px;
+    margin: 40px 0px -8px -35px;
+    background-color: rgb(149, 146, 146);
+    padding: 6px;
+}

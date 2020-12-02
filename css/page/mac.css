@@ -1,0 +1,130 @@
+.mac {
+    margin-top: 50px;
+}
+.header {
+    height: 100px;
+    width: 1470px;
+}
+.placeholde-page {
+    margin-top: 20px;
+    width: 1455px;
+    height: 30px;
+    background-color: #fff;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+a {
+    color: #343e5c;
+    padding-right: 30px;
+}
+
+.sub__menu-list__Computers__mac {
+    position: absolute;
+    margin-left: 132px;
+    top: 300px;
+    display: flex;
+    display: none;
+    width: 150px;
+    height: 150px;
+    border-radius: 6px;
+    background-color: #ffffff;
+}
+.sub__menu-list__Computers__mac > li {
+    padding-top: 15px;
+    margin-left: -35px;
+}
+.navigation__list > li:hover .sub__menu-list__Computers__mac {
+    display: block;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.sub__menu-Smartwatch__mac {
+    position: absolute;
+    margin-left: 132px;
+    top: 359px;
+    display: flex;
+    display: none;
+    width: 150px;
+    height: 150px;
+    border-radius: 6px;
+    background-color: #ffffff;
+}
+.sub__menu-Smartwatch__mac > li {
+    padding-top: 15px;
+    margin-left: -35px;
+}
+.navigation__list > li:hover .sub__menu-Smartwatch__mac {
+    display: block;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.sub__menu-Smartphone__mac {
+    position: absolute;
+    margin-left: 132px;
+    top: 421px;
+    display: flex;
+    display: none;
+    width: 150px;
+    height: 150px;
+    border-radius: 6px;
+    background-color: #ffffff;
+}
+.sub__menu-Smartphone__mac > li {
+    padding-top: 15px;
+    margin-left: -35px;
+}
+.navigation__list > li:hover .sub__menu-Smartphone__mac {
+    display: block;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.sub__menu-Accessories__mac {
+    position: absolute;
+    margin-left: 132px;
+    top: 484px;
+    display: flex;
+    display: none;
+    width: 150px;
+    height: 150px;
+    border-radius: 6px;
+    background-color: #ffffff;
+}
+.sub__menu-Accessories__mac > li {
+    padding-top: 15px;
+    margin-left: -35px;
+}
+.navigation__list > li:hover .sub__menu-Accessories__mac {
+    display: block;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.sub__menu-TV__mac {
+    position: absolute;
+    margin-left: 132px;
+    top: 548px;
+    display: flex;
+    display: none;
+    width: 150px;
+    height: 150px;
+    border-radius: 6px;
+    background-color: #ffffff;
+}
+.sub__menu-TV__mac > li {
+    padding-top: 15px;
+    margin-left: -35px;
+}
+.navigation__list > li:hover .sub__menu-TV__mac {
+    display: block;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+
+
+
+
+

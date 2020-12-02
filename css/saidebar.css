@@ -1,0 +1,110 @@
+
+.navigation__list > li:hover .sub__menu-list {
+    display: block;
+    display: flex;
+    flex-flow: column wrap;
+}
+.sub__menu-list {
+    position: absolute;
+    margin-left: 130px;
+    top: 810px;
+    display: flex;
+    display: none;
+    width: 150px;
+    height: 150px;
+    border-radius: 6px;
+    background-color: #ffffff;
+}
+.sub__menu-list > li {
+    padding-top: 15px;
+    margin-left: -35px;
+}
+.sub__menu__link {
+    border-bottom: 1px solid rgb(0, 0, 0, 0.08);
+    padding: 13px 65px 13px 65px ;
+    background-color: #fff;
+}
+
+.sub__menu-Smartwatch {
+    position: absolute;
+    margin-left: 132px;
+    top: 867px;
+    display: flex;
+    display: none;
+    width: 150px;
+    height: 150px;
+    border-radius: 6px;
+    background-color: #ffffff;
+}
+.sub__menu-Smartwatch > li {
+    padding-top: 15px;
+    margin-left: -35px;
+}
+.navigation__list > li:hover .sub__menu-Smartwatch {
+    display: block;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.sub__menu-Smartphone {
+    position: absolute;
+    margin-left: 132px;
+    top: 931px;
+    display: flex;
+    display: none;
+    width: 150px;
+    height: 150px;
+    border-radius: 6px;
+    background-color: #ffffff;
+}
+.sub__menu-Smartphone > li {
+    padding-top: 15px;
+    margin-left: -35px;
+}
+.navigation__list > li:hover .sub__menu-Smartphone {
+    display: block;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.sub__menu-Accessories {
+    position: absolute;
+    margin-left: 132px;
+    top: 994px;
+    display: flex;
+    display: none;
+    width: 150px;
+    height: 150px;
+    border-radius: 6px;
+    background-color: #ffffff;
+}
+.sub__menu-Accessories > li {
+    padding-top: 15px;
+    margin-left: -35px;
+}
+.navigation__list > li:hover .sub__menu-Accessories {
+    display: block;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.sub__menu-TV {
+    position: absolute;
+    margin-left: 132px;
+    top: 1055px;
+    display: flex;
+    display: none;
+    width: 150px;
+    height: 150px;
+    border-radius: 6px;
+    background-color: #ffffff;
+}
+.sub__menu-TV > li {
+    padding-top: 15px;
+    margin-left: -35px;
+}
+.navigation__list > li:hover .sub__menu-TV {
+    display: block;
+    display: flex;
+    flex-flow: column wrap;
+}
